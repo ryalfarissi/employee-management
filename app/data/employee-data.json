@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "Budi Santoso",
+    "email": "budi@company.com",
+    "jabatan": "Software Engineer",
+    "departemen": "IT",
+    "status": "Aktif"
+  },
+  {
+    "id": 2,
+    "nama": "Rahmawatiw",
+    "email": "rahmawati@company.com",
+    "jabatan": "HR Specialist",
+    "departemen": "HRD",
+    "status": "Cuti"
+  },
+  {
+    "id": 3,
+    "nama": "Asep",
+    "email": "asep@gmail.com",
+    "jabatan": "Cleaning Service",
+    "departemen": "Maintenance",
+    "status": "Aktif"
+  }
+]

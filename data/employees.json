@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "Budi Santoso",
+    "email": "budi@example.com",
+    "jabatan": "Frontend Developer",
+    "departemen": "Engineering",
+    "status": "Aktif"
+  },
+  {
+    "id": 2,
+    "nama": "Siti Rahma",
+    "email": "siti@example.com",
+    "jabatan": "HR Manager",
+    "departemen": "Human Resources",
+    "status": "Aktif"
+  },
+  {
+    "id": 3,
+    "nama": "Andi Wijaya",
+    "email": "andi@example.com",
+    "jabatan": "Accountant",
+    "departemen": "Finance",
+    "status": "Cuti"
+  }
+]
